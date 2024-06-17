@@ -1,4 +1,4 @@
-#def4_kadai.py
+#s24019 def4_kadai.py
 #メインの処理をmain()関数に行わせるおみくじプログラム
 
 import random
